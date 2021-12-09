@@ -1,0 +1,6 @@
+import { GroupBox } from "sixtyfps_widgets.60";
+
+MainWindow := Window {
+    GroupBox {
+    }
+}
